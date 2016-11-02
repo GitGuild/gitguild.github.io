@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tenets-rsses on Git Guild - Open Source Governance</title>
-    <link>http://gitguild.com/tenets/index.xml</link>
+    <link>https://gitguild.com/tenets/index.xml</link>
     <description>Recent content in Tenets-rsses on Git Guild - Open Source Governance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2016, Git Guild. All rights reserved.</copyright>
     <lastBuildDate>Wed, 25 Nov 2015 23:11:06 -0504</lastBuildDate>
-    <atom:link href="http://gitguild.com/tenets/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gitguild.com/tenets/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Governance</title>
-      <link>http://gitguild.com/tenets/governance/</link>
+      <link>https://gitguild.com/tenets/governance/</link>
       <pubDate>Wed, 25 Nov 2015 23:11:06 -0504</pubDate>
       
-      <guid>http://gitguild.com/tenets/governance/</guid>
+      <guid>https://gitguild.com/tenets/governance/</guid>
       <description>&lt;p&gt;A guild is formed upon two or more individuals PGP signing a Charter that specifies the purpose of a software project and the rules that govern the development of the project. These can include definitions of membership, roles, responsibilities, code quality standards, monetary policy, etc. Any flexibility, such as fee allocation or amount, ammendment to election or membership bylaws, monetary policy changes, and the protocol itself must have their scopes and abilities defined.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt; and PGP have been chosen as the basis for the workflow and cryptographic signatures respectively because these technologies are already widely used in open source projects.&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Economics</title>
-      <link>http://gitguild.com/tenets/economics/</link>
+      <link>https://gitguild.com/tenets/economics/</link>
       <pubDate>Wed, 25 Nov 2015 23:11:06 -0503</pubDate>
       
-      <guid>http://gitguild.com/tenets/economics/</guid>
+      <guid>https://gitguild.com/tenets/economics/</guid>
       <description>&lt;p&gt;The guild will be able to manage project budgets via multi-signature cryptocurrency wallets. For example, if the organization has 9 code reviewers, a 5 of 9 multisig Bitcoin wallet could be created, and a majority of the reviewers would need to sign off on any payments. To continue the example, a developer could submit a pull request in response to a bounty. If 5 of the 9 reviewers agree that the pull request is satisfactory, the payment will be made.&lt;/p&gt;
 
 &lt;p&gt;Non-coding roles such as testers, project managers, and code reviewers can be defined in the charter, and the individuals rewarded according to the fulfilment of their responsibilities.&lt;/p&gt;
@@ -48,10 +48,10 @@
     
     <item>
       <title>Contracts</title>
-      <link>http://gitguild.com/tenets/contracts/</link>
+      <link>https://gitguild.com/tenets/contracts/</link>
       <pubDate>Wed, 25 Nov 2015 23:11:06 -0502</pubDate>
       
-      <guid>http://gitguild.com/tenets/contracts/</guid>
+      <guid>https://gitguild.com/tenets/contracts/</guid>
       <description>&lt;p&gt;Many industries evolve their own unique contract terms and clauses. To the extent that they can be described in algorithmic terms, they can be programmed into smart contracts and approved by the Guild for use in the network. Once a contract type has been approved, transactions using it can be created, and arbitrated accordingly.&lt;/p&gt;
 
 &lt;p&gt;For example, lets take a simple fee for service model. This is a contract type that almost all Guilds would allow. A fee for service contract might be required to have a documented issue matching a particular format, a public key for the issue reporter, Bitcoins deposited in escrow, and requirements for satisfactory completion. This is a very fancy way of saying: make a github bug report or feature request and pay up front. In return, the completion and quality of the work are guaranteed by the guild, or you get your money back.&lt;/p&gt;
@@ -66,10 +66,10 @@
     
     <item>
       <title>Quality</title>
-      <link>http://gitguild.com/tenets/quality/</link>
+      <link>https://gitguild.com/tenets/quality/</link>
       <pubDate>Wed, 25 Nov 2015 23:11:06 -0501</pubDate>
       
-      <guid>http://gitguild.com/tenets/quality/</guid>
+      <guid>https://gitguild.com/tenets/quality/</guid>
       <description>&lt;p&gt;Peer review is a foundational aspect of the scientific method. Computer scientists are arguably the most meticulous of all about maintaining and tracking each and every contribution. Specifically, version control systems such as Git support near perfect accounting of contributions to documents of a wide variety of formats.&lt;/p&gt;
 
 &lt;p&gt;As there are already tens of millions of open source developers out there, arguably representing billions of USD worth of value, this is a huge sector going untapped and undeveloped. Thankfully, Git aleady provides provable, perfectly documented and sometimes even cryptographically signed records of all contributions to each of these projects.&lt;/p&gt;
