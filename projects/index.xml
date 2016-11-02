@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects-rsses on Git Guild - Open Source Governance</title>
-    <link>http://gitguild.com/projects/index.xml</link>
+    <link>https://gitguild.com/projects/index.xml</link>
     <description>Recent content in Projects-rsses on Git Guild - Open Source Governance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2016, Git Guild. All rights reserved.</copyright>
     <lastBuildDate>Wed, 25 Nov 2015 23:11:06 -0502</lastBuildDate>
-    <atom:link href="http://gitguild.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gitguild.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>DeSW</title>
-      <link>http://gitguild.com/projects/desw/</link>
+      <link>https://gitguild.com/projects/desw/</link>
       <pubDate>Wed, 25 Nov 2015 23:11:06 -0502</pubDate>
       
-      <guid>http://gitguild.com/projects/desw/</guid>
+      <guid>https://gitguild.com/projects/desw/</guid>
       <description>&lt;p&gt;A shared wallet server, for maintaining a centralized ledger of accounts. Accounts can transfer amounts to each other, deposit and withdraw. Currently supports Bitcoin and Dash.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Trade Manager</title>
-      <link>http://gitguild.com/projects/trade-manager/</link>
+      <link>https://gitguild.com/projects/trade-manager/</link>
       <pubDate>Wed, 25 Nov 2015 23:11:06 -0502</pubDate>
       
-      <guid>http://gitguild.com/projects/trade-manager/</guid>
+      <guid>https://gitguild.com/projects/trade-manager/</guid>
       <description>&lt;p&gt;An asynchronous program for managing cryptocurrency trading on a variety of exchanges. This program comes with a number of optional, configurable plugins, including &lt;a href=&#34;http://bitt.com&#34; target=&#34;_blank&#34;&gt;bitt&lt;/a&gt;, Kraken, Bitfinex, and Poloniex.&lt;/p&gt;
 </description>
     </item>
